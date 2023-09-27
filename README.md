@@ -4,9 +4,9 @@
 
 **[博客](https://blog.csdn.net/Dawn_3563/article/details/133270616?spm=1001.2014.3001.5502)**
 
-**[Github]([983496556/SE_work_calculate (github.com)](https://github.com/983496556/SE_work_calculate))**
+**[Github](https://github.com/983496556/SE_Calculator)**
 
-**[Gitee]([陈林旭/SE_work_calculate - 码云 - 开源中国 (gitee.com)](https://gitee.com/Chen_Linxu/SE_work))**
+**[Gitee](https://gitee.com/Chen_Linxu/SE_Calculator)**
 
 ## 版本
 
